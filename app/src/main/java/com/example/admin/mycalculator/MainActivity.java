@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             double Result = x+y;
             result.setText(Result +"");
                  Toast.makeText(this, "burrhh...!!!Added Successfully", Toast.LENGTH_SHORT).show();
-                 Toast.makeText(this, "stop", Toast.LENGTH_SHORT).show();
+                 //Toast.makeText(this, "stop", Toast.LENGTH_SHORT).show();
     }
 
     public void MultiplyButtonClicked(View view){
