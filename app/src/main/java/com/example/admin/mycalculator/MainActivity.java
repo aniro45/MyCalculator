@@ -16,6 +16,9 @@ import java.util.Scanner;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    //Sample github test.
+
              public void PlusButtonClicked(View view){
             EditText num1 = (EditText) findViewById(R.id.Num1EditTextId);
             EditText num2 = (EditText) findViewById(R.id.Num2EditTextId);
